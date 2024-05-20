@@ -107,7 +107,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions, feel free to contact the project maintainer at [your-email@example.com].
+If you have any questions, feel free to contact the project maintainer at [om.d3v.21@gmail.com].
 
 ---
 
